@@ -4,7 +4,7 @@
   ],
   "C_Cpp_Runner.compilerArgs": [],
   "C_Cpp_Runner.includePaths": [
-    "${workspaceFolder}/deps/SDL2/x86_64/include"
+    "${workspaceFolder}/deps/SDL2-2.0.16/x86_64-w64-mingw32/include"
   ],
   "C_Cpp_Runner.linkerArgs": [],
   "C_Cpp_Runner.cStandard": "c17",
