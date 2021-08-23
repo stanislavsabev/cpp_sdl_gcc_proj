@@ -1,0 +1,25 @@
+{
+  "C_Cpp_Runner.warnings": [
+    "-Wall",
+    "-Wextra"
+  ],
+  "C_Cpp_Runner.compilerArgs": [],
+  "C_Cpp_Runner.includePaths": [
+    "${workspaceFolder}\\deps\\SDL2\\include\\**"
+  ],
+  "C_Cpp_Runner.linkerArgs": [
+    "${workspaceFolder}\\deps\\SDL\\lib"
+  ],
+  "C_Cpp_Runner.cStandard": "c17",
+  "C_Cpp_Runner.cppStandard": "c++17",
+  "C_Cpp_Runner.excludeSearch": [],
+  "C_Cpp_Runner.enableWarnings": true,
+  "C_Cpp_Runner.warningsAsError": false,
+  "C_Cpp_Runner.cCompilerPath": "C:\\mingw64\\bin\\gcc.exe",
+  "C_Cpp_Runner.cppCompilerPath": "C:\\mingw64\\bin\\g++.exe",
+  "C_Cpp_Runner.debuggerPath": "C:\\mingw64\\bin\\gdb.exe",
+  "C_Cpp_Runner.makePath": "C:\\mingw64\\bin\\make.exe",
+  "files.associations": {
+    "ostream": "cpp"
+  }
+}
